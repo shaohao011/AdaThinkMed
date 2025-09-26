@@ -148,6 +148,9 @@ python3 -m verl.trainer.main \
 ```
 
 ---
+## 💾 Model Weights
+For anonymity reasons, we do not provide model weights at this stage.  
+If requested during the review process, we will release them to the reviewers.
 
 ## 🙌 Acknowledgements
 We thank the community for prior works on adaptive reasoning and calibration, which inspired this study. A lot of codes are modified from verl.
