@@ -28,7 +28,6 @@ VERSION='v7'
 EXTRO_NAME='default'
 ADA_METHOD='ours'
 
-# 参数解析
 for i in "$@"; do
   [[ $i == --topk=* ]] && TOPK="${i#*=}"
   [[ $i == --theta=* ]] && THETA="${i#*=}"
