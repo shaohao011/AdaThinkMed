@@ -2,4 +2,10 @@
  the first end-to-end framework designed to enhance adaptive thinking ability in medical reasoning models with uncertainty-guided length calibration.
 
  ## Introdcution
- 
+ assets/overview.png
+
+ ## Length reward hack
+
+## main results
+
+## compared with lenth calibration methods:
