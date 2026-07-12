@@ -4,6 +4,8 @@ This repository contains the official implementation of our paper:
 **AdaThink-Med: Medical Adaptive Thinking with Uncertainty-Guided Length Calibration**  
 The first end-to-end framework designed to enhance adaptive thinking ability in medical reasoning models with **uncertainty-guided length calibration**.
 
+Paper: [OpenReview](https://openreview.net/pdf?id=zlJehQJATy) | [arXiv](https://arxiv.org/abs/2509.24560)
+
 ---
 
 ## 📖 Introduction
@@ -52,6 +54,7 @@ Our approach enables the **emergence of distinct reasoning modes** (think vs. no
    Perform GRPO training to obtain the medical reasoning model:  
    ```sh
    bash examples/qwen_alphamed19k_grpo.sh
+   ```
 3. **Adaptive Training**  
     Run adaptive training to further enhance adaptive medical reasoning.
 
@@ -149,8 +152,7 @@ python3 -m verl.trainer.main \
 
 ---
 ## 💾 Model Weights
-For anonymity reasons, we do not provide model weights at this stage.  
-If requested during the review process, we will release them to the reviewers.
+Model weights and additional artifacts will be released separately.
 
 ## 🙌 Acknowledgements
 We thank the community for prior works on adaptive reasoning and calibration, which inspired this study. A lot of codes are modified from verl.
