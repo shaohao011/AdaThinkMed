@@ -154,5 +154,18 @@ python3 -m verl.trainer.main \
 ## 💾 Model Weights
 Model weights and additional artifacts will be released separately.
 
+## Citation
+
+If you find **AdaThink-Med** useful for your research, please cite our paper:
+
+```bibtex
+@article{rui2025adathink,
+  title={AdaThink-Med: Medical Adaptive Thinking with Uncertainty-Guided Length Calibration},
+  author={Rui, Shaohao and Chen, Kaitao and Ma, Weijie and Wang, Xiaosong},
+  journal={arXiv preprint arXiv:2509.24560},
+  year={2025}
+}
+```
+
 ## 🙌 Acknowledgements
 We thank the community for prior works on adaptive reasoning and calibration, which inspired this study. A lot of codes are modified from verl.
