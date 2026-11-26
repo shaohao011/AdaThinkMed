@@ -159,11 +159,10 @@ Model weights and additional artifacts will be released separately.
 If you find **AdaThink-Med** useful for your research, please cite our paper:
 
 ```bibtex
-@article{rui2025adathink,
-  title={AdaThink-Med: Medical Adaptive Thinking with Uncertainty-Guided Length Calibration},
+@inproceedings{ruioptimizing,
+  title={Optimizing Inference-Time Compute for Medical Reasoning via Uncertainty Quantification},
   author={Rui, Shaohao and Chen, Kaitao and Ma, Weijie and Wang, Xiaosong},
-  journal={arXiv preprint arXiv:2509.24560},
-  year={2025}
+  booktitle={Forty-third International Conference on Machine Learning}
 }
 ```
 
